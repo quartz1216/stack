@@ -222,7 +222,7 @@ public partial class MainWindow : Window
     {
         string helpText = "Help not found.";
         var assembly = System.Reflection.Assembly.GetExecutingAssembly();
-        using var stream = assembly.GetManifestResourceStream("stack.help.md");
+        using var stream = assembly.GetManifestResourceStream("stack.README.md");
         if (stream != null)
         {
             using var reader = new System.IO.StreamReader(stream);
