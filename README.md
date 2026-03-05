@@ -2,7 +2,9 @@
 
 A minimalist, LIFO keyboard-centric sticky note application for Windows.
 
+
 ## Shortcuts
+
 - `Ctrl+N`: New note
 - `Ctrl+W`: Push (Save & Close)
 - `Ctrl+R`: Pop (Restore last pushed)
@@ -13,6 +15,9 @@ A minimalist, LIFO keyboard-centric sticky note application for Windows.
 - `Alt`: Toggle menu bar
 - `Esc`: Hide menu bar
 
-## GitHub Repository
-For more information, source code, and updates, visit:
-[https://github.com/quartz_1216/stack](https://github.com/quartz_1216/stack)
+
+## Links
+
+[https://github.com/quartz1216/stack](https://github.com/quartz1216/stack)
+
+[https://x.com/quartz_1216](https://x.com/quartz_1216)
