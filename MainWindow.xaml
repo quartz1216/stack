@@ -1,6 +1,7 @@
 ﻿<Window x:Class="stack.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="icon.png"
         Title="Stack" Height="400" Width="400"
         WindowStartupLocation="Manual">
     <Window.Resources>
