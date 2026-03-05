@@ -1,14 +1,18 @@
-=== Stack v1.0 ===
+# Stack v1.0
 
-Shortcuts:
-  Ctrl+N  New note
-  Ctrl+W  Push (save & close)
-  Ctrl+R  Pop (restore last pushed)
-  Ctrl+Q  Discard (close without saving)
-  Ctrl+J  Toggle word wrap
-  Ctrl+H  Minimize
-  Ctrl+M  Maximize
-  Alt     Toggle menu bar
-  Esc     Hide menu bar
+A minimalist, LIFO keyboard-centric sticky note application for Windows.
 
-GitHub
+## Shortcuts
+- `Ctrl+N`: New note
+- `Ctrl+W`: Push (Save & Close)
+- `Ctrl+R`: Pop (Restore last pushed)
+- `Ctrl+Q`: Discard (Close without saving)
+- `Ctrl+J`: Toggle word wrap
+- `Ctrl+H`: Minimize window
+- `Ctrl+M`: Maximize window
+- `Alt`: Toggle menu bar
+- `Esc`: Hide menu bar
+
+## GitHub Repository
+For more information, source code, and updates, visit:
+[https://github.com/quartz_1216/stack](https://github.com/quartz_1216/stack)
