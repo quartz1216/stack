@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" alt="" width="512" />
+</p>
+
 # Stack v1.0
 
 A minimalist, LIFO keyboard-centric sticky note application for Windows.
